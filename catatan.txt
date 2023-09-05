@@ -1,7 +1,7 @@
 merencanakan aplikasi
 membuat halaman login
+membuat database
 koneksi database
 membuat tabel dan mengisi data 
-membuat menu dashboard
-
+membuat tampilan dashboard
 
