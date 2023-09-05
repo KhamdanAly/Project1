@@ -4,7 +4,4 @@ membuat database
 koneksi database
 membuat tabel dan mengisi data 
 membuat tampilan dashboard
-membuat navbar
-menampilkan data sesuai user yg login nmengambil data dari database
-membuat tabel mata pelajaran 
-membuat tombol kerjakan 
+
